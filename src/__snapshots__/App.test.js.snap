@@ -6,16 +6,16 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="sc-fujyUd kqpZJH"
+        class="sc-pNWxx kTjgT"
       >
         <div
-          class="sc-pNWxx EbHQf"
+          class="sc-jrsJCI kJdPdt"
         >
           <div
-            class="sc-jrsJCI fpfsPu"
+            class="sc-kEqYlL fEncoT"
           >
             <a
-              class="sc-dIsAE"
+              class="sc-bqGHjH"
               href="#"
             >
               <svg>
@@ -24,49 +24,49 @@ Object {
             </a>
           </div>
           <div
-            class="sc-kEqYlL iGNpnA"
+            class="sc-iqAbSa lemUPT"
           >
             <ul
-              class="sc-iqAbSa fPYayd"
+              class="sc-crzoUp gSsRNw"
             >
               <li>
                 <a
-                  class="sc-dIsAE"
+                  class="sc-bqGHjH"
                 >
                   News
                 </a>
               </li>
               <li>
                 <a
-                  class="sc-dIsAE"
+                  class="sc-bqGHjH"
                 >
                   Watches
                 </a>
               </li>
               <li>
                 <a
-                  class="sc-dIsAE"
+                  class="sc-bqGHjH"
                 >
                   Jewelry
                 </a>
               </li>
               <li>
                 <a
-                  class="sc-dIsAE"
+                  class="sc-bqGHjH"
                 >
                   Watch bracelet
                 </a>
               </li>
               <li>
                 <a
-                  class="sc-dIsAE"
+                  class="sc-bqGHjH"
                 >
                   Gift sets
                 </a>
               </li>
               <li>
                 <a
-                  class="sc-dIsAE"
+                  class="sc-bqGHjH"
                 >
                   Shop
                 </a>
@@ -74,10 +74,10 @@ Object {
             </ul>
           </div>
           <div
-            class="sc-crzoUp krNxza"
+            class="sc-dIsAE kBFsoN"
           >
             <a
-              class="sc-dIsAE"
+              class="sc-bqGHjH"
               href="#"
             >
               <svg>
@@ -87,9 +87,9 @@ Object {
           </div>
         </div>
       </div>
-      <div>
-        Loading...
-      </div>
+      <button>
+        Fetch Products
+      </button>
       <div
         class="ReactQueryDevtools"
       >
@@ -141,16 +141,16 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="sc-fujyUd kqpZJH"
+      class="sc-pNWxx kTjgT"
     >
       <div
-        class="sc-pNWxx EbHQf"
+        class="sc-jrsJCI kJdPdt"
       >
         <div
-          class="sc-jrsJCI fpfsPu"
+          class="sc-kEqYlL fEncoT"
         >
           <a
-            class="sc-dIsAE"
+            class="sc-bqGHjH"
             href="#"
           >
             <svg>
@@ -159,49 +159,49 @@ Object {
           </a>
         </div>
         <div
-          class="sc-kEqYlL iGNpnA"
+          class="sc-iqAbSa lemUPT"
         >
           <ul
-            class="sc-iqAbSa fPYayd"
+            class="sc-crzoUp gSsRNw"
           >
             <li>
               <a
-                class="sc-dIsAE"
+                class="sc-bqGHjH"
               >
                 News
               </a>
             </li>
             <li>
               <a
-                class="sc-dIsAE"
+                class="sc-bqGHjH"
               >
                 Watches
               </a>
             </li>
             <li>
               <a
-                class="sc-dIsAE"
+                class="sc-bqGHjH"
               >
                 Jewelry
               </a>
             </li>
             <li>
               <a
-                class="sc-dIsAE"
+                class="sc-bqGHjH"
               >
                 Watch bracelet
               </a>
             </li>
             <li>
               <a
-                class="sc-dIsAE"
+                class="sc-bqGHjH"
               >
                 Gift sets
               </a>
             </li>
             <li>
               <a
-                class="sc-dIsAE"
+                class="sc-bqGHjH"
               >
                 Shop
               </a>
@@ -209,10 +209,10 @@ Object {
           </ul>
         </div>
         <div
-          class="sc-crzoUp krNxza"
+          class="sc-dIsAE kBFsoN"
         >
           <a
-            class="sc-dIsAE"
+            class="sc-bqGHjH"
             href="#"
           >
             <svg>
@@ -222,9 +222,9 @@ Object {
         </div>
       </div>
     </div>
-    <div>
-      Loading...
-    </div>
+    <button>
+      Fetch Products
+    </button>
     <div
       class="ReactQueryDevtools"
     >
